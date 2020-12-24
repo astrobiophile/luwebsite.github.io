@@ -2,20 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on About An Astrobiologist</title>
-    <link>/tags/</link>
+    <link>/luwebsite.github.io/tags/</link>
     <description>Recent content in Tags on About An Astrobiologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/luwebsite.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>hugo</title>
+      <link>/luwebsite.github.io/tags/hugo/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/luwebsite.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>/luwebsite.github.io/tags/markdown/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/luwebsite.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>index</title>
-      <link>/tags/index/</link>
+      <link>/luwebsite.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/index/</guid>
+      <guid>/luwebsite.github.io/tags/index/</guid>
       <description></description>
     </item>
     
