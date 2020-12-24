@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on About An Astrobiologist</title>
+<<<<<<< HEAD
+    <link>/tags/hugo/</link>
+=======
+    <link>/astrobiolu.github.io/tags/hugo/</link>
+>>>>>>> 43470cb9775c037662618989df75d919e319c699
+    <description>Recent content in hugo on About An Astrobiologist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+<<<<<<< HEAD
+	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="/astrobiolu.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 43470cb9775c037662618989df75d919e319c699
+    
+    
+    <item>
+      <title>hello!</title>
+<<<<<<< HEAD
+      <link>/post/helloworld/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/helloworld/</guid>
+=======
+      <link>/astrobiolu.github.io/post/helloworld/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/astrobiolu.github.io/post/helloworld/</guid>
+>>>>>>> 43470cb9775c037662618989df75d919e319c699
+      <description>In the spirit of good riddance to 2020, I am welcoming to the world&amp;ndash; my new website!</description>
+    </item>
+    
+  </channel>
+</rss>

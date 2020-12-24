@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on About An Astrobiologist</title>
+<<<<<<< HEAD
+    <link>/tags/index/</link>
+=======
+    <link>/astrobiolu.github.io/tags/index/</link>
+>>>>>>> 43470cb9775c037662618989df75d919e319c699
+    <description>Recent content in index on About An Astrobiologist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+<<<<<<< HEAD
+	<atom:link href="/tags/index/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="/astrobiolu.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 43470cb9775c037662618989df75d919e319c699
+    
+    
+    <item>
+      <title>Posts</title>
+<<<<<<< HEAD
+      <link>/post/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/</guid>
+=======
+      <link>/astrobiolu.github.io/post/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/astrobiolu.github.io/post/</guid>
+>>>>>>> 43470cb9775c037662618989df75d919e319c699
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

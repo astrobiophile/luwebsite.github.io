@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hi on About An Astrobiologist</title>
+    <link>/tags/hi/</link>
+    <description>Recent content in hi on About An Astrobiologist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello world</title>
+      <link>/post/helloworld/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/helloworld/</guid>
+      <description>In the spirit of good riddance to 2020, I am welcoming to the world&amp;ndash; my new website!</description>
+    </item>
+    
+  </channel>
+</rss>
