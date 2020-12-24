@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on About An Astrobiologist</title>
-    <link>/tags/hugo/</link>
+    <link>/luwebsite.github.io/tags/hugo/</link>
     <description>Recent content in hugo on About An Astrobiologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/luwebsite.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello!</title>
-      <link>/post/helloworld/</link>
+      <link>/luwebsite.github.io/post/helloworld/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/helloworld/</guid>
+      <guid>/luwebsite.github.io/post/helloworld/</guid>
       <description>In the spirit of good riddance to 2020, I am welcoming to the world&amp;ndash; my new website!</description>
     </item>
     
