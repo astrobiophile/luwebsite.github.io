@@ -2,68 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on About An Astrobiologist</title>
-<<<<<<< HEAD
     <link>/tags/</link>
-=======
-    <link>/astrobiolu.github.io/tags/</link>
->>>>>>> 43470cb9775c037662618989df75d919e319c699
     <description>Recent content in Tags on About An Astrobiologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-<<<<<<< HEAD
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-=======
-	<atom:link href="/astrobiolu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 43470cb9775c037662618989df75d919e319c699
     
-    
-    <item>
-      <title>hugo</title>
-<<<<<<< HEAD
-      <link>/tags/hugo/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hugo/</guid>
-=======
-      <link>/astrobiolu.github.io/tags/hugo/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/astrobiolu.github.io/tags/hugo/</guid>
->>>>>>> 43470cb9775c037662618989df75d919e319c699
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-<<<<<<< HEAD
-      <link>/tags/markdown/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/markdown/</guid>
-=======
-      <link>/astrobiolu.github.io/tags/markdown/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/astrobiolu.github.io/tags/markdown/</guid>
->>>>>>> 43470cb9775c037662618989df75d919e319c699
-      <description></description>
-    </item>
     
     <item>
       <title>index</title>
-<<<<<<< HEAD
       <link>/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/index/</guid>
-=======
-      <link>/astrobiolu.github.io/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/astrobiolu.github.io/tags/index/</guid>
->>>>>>> 43470cb9775c037662618989df75d919e319c699
       <description></description>
     </item>
     

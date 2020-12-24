@@ -2,100 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About An Astrobiologist</title>
-<<<<<<< HEAD
     <link>/</link>
-=======
-    <link>/astrobiolu.github.io/</link>
->>>>>>> 43470cb9775c037662618989df75d919e319c699
     <description>Recent content on About An Astrobiologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-<<<<<<< HEAD
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-=======
-	<atom:link href="/astrobiolu.github.io/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 43470cb9775c037662618989df75d919e319c699
     
-    
-    <item>
-      <title>hello!</title>
-<<<<<<< HEAD
-      <link>/post/helloworld/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/helloworld/</guid>
-=======
-      <link>/astrobiolu.github.io/post/helloworld/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/astrobiolu.github.io/post/helloworld/</guid>
->>>>>>> 43470cb9775c037662618989df75d919e319c699
-      <description>In the spirit of good riddance to 2020, I am welcoming to the world&amp;ndash; my new website!</description>
-    </item>
     
     <item>
       <title></title>
-<<<<<<< HEAD
       <link>/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/archives/</guid>
-=======
-      <link>/astrobiolu.github.io/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/astrobiolu.github.io/archives/</guid>
->>>>>>> 43470cb9775c037662618989df75d919e319c699
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-<<<<<<< HEAD
       <link>/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-=======
-      <link>/astrobiolu.github.io/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/astrobiolu.github.io/contact/</guid>
->>>>>>> 43470cb9775c037662618989df75d919e319c699
       <description></description>
     </item>
     
     <item>
       <title>hi there, my name is Lu</title>
-<<<<<<< HEAD
       <link>/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-=======
-      <link>/astrobiolu.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/astrobiolu.github.io/about/</guid>
->>>>>>> 43470cb9775c037662618989df75d919e319c699
       <description>I am a NPP Postdoctoral Fellow at NASA Goddard Space Flight Center &amp;amp; Georgetown University.</description>
     </item>
     
     <item>
       <title></title>
-<<<<<<< HEAD
       <link>/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cv/</guid>
-=======
-      <link>/astrobiolu.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/astrobiolu.github.io/cv/</guid>
->>>>>>> 43470cb9775c037662618989df75d919e319c699
       <description>complete CV 🚀 current position  NPP Postdoctoral Fellow at NASA Goddard Space Flight Center &amp;amp; Georgetown University   🎓 education  Ph.</description>
     </item>
     
